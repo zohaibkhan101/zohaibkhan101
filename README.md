@@ -36,10 +36,7 @@
 
 <!-- GitHub Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zohaibkhan101&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zohaibkhan101&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zohaibkhan101&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zohaibkhan101&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zohaibkhan101&theme=tokyonight&utcOffset=+5" />
+
 
 <!-- GitHub Activity Graph -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibkhan101&theme=tokyo-night)
