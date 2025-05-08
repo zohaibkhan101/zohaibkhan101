@@ -32,7 +32,7 @@
 ## 📈 GitHub Stats
 
 <!-- GitHub Metrics by lowlighter -->
-<img src="https://github.com/zohaibkhan04/zohaibkhan04/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://github.com/zohaibkhan101/zohaibkhan101/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 <!-- GitHub Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zohaibkhan101&theme=tokyonight" />
