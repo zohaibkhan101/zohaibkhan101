@@ -31,15 +31,13 @@
 
 ## 📈 GitHub Stats
 
-<!-- GitHub Metrics by lowlighter -->
-<img src="https://github.com/zohaibkhan101/zohaibkhan101/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+
 
 <!-- GitHub Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zohaibkhan101&theme=tokyonight" />
 
 
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibkhan101&theme=tokyo-night)
+
 
 ---
 
