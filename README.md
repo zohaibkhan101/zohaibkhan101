@@ -42,7 +42,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zohaibkhan101&theme=tokyonight&utcOffset=+5" />
 
 <!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibkhan04&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibkhan101&theme=tokyo-night)
 
 ---
 
