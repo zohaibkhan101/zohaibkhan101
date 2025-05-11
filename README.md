@@ -8,7 +8,7 @@
 🧠 **Recent Projects**  
 - 🔮 [Market Maven](https://github.com/zohaibkhan101/Market-Maven): Cryptocurrency price prediction bot using LSTM and TensorFlow  
 - 👨‍💻 [Employees Portal](https://github.com/moiahm886/Internship-Work): Internship Web API with Repository Pattern in .NET  
-- 🛡️ [SecBee (FYP)](https://github.com/zohaibkhan04/secbee): Threat monitoring system using React.js, Firebase, AWS + Tpot  
+- 🛡️ [SecBee (FYP)](https://github.com/zohaibkhan101/Secbee): Threat monitoring system using React.js, Firebase, AWS + Tpot  
 
 ---
 
